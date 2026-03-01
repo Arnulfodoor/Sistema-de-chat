@@ -58,7 +58,7 @@ Admin panel:
 | Servidor   | Apache / Nginx / PHP built-in |
 
 > **Credenciales por defecto:**  
-> Usuario: `admin` · Contraseña: `admin123`  
+> Usuario: `admin` · Contraseña: `password`  
 ---
 
 ## 📁 Estructura del proyecto
